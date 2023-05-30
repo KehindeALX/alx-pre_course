@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "ALX"
+^C
+
+git checkout master
+cd master
+ls
+> alx
+kennyboy@DESKTOP-M2JQI86 MINGW64 ~/Desktop/AlX/alx-pre_course/0x01-git/bash (main) .alx
+ls --la
+git checkout -- path/kennyboy@DESKTOP-M2JQI86 MINGW64 ~/Desktop/AlX/alx-pre_course/0x01-git/bash (main)
